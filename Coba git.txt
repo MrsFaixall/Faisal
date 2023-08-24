@@ -1,2 +1,2 @@
 File ini digunakan menocba git
-belajar git
+efit filem dan kirim commit remote
